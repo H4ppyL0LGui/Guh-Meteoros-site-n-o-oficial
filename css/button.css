@@ -1,0 +1,9 @@
+button{
+    width: 420px;
+    height: 55px;
+    background-color: mediumblue;
+    border: none;
+    border-radius: 0;
+    font-family: inherit;
+    color:white
+}
